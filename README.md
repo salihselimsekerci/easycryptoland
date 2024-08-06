@@ -13,7 +13,7 @@ src\app\pages\market\market.page.tsnpm install -g @ionic/cli
 
 
 About Line 71: this.decoded.base = ['USDT', 'BNB', 'BUSD','TRY'];
-# exchange-app- for ansdroid
+# exchange-app- for android
 
 ionic capacitor add android
 ionic capacitor copy
