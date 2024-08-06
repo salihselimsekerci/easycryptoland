@@ -1,0 +1,6 @@
+{
+	"appId": "io.flikit.exchange",
+	"appName": "Flikit Exchange",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

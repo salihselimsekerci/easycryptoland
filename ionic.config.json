@@ -1,0 +1,8 @@
+{
+  "name": "Flikit Exchange",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
