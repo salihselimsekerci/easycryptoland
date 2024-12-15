@@ -24,7 +24,7 @@
     "@awesome-cordova-plugins/camera": "^5.44.0",
     "@awesome-cordova-plugins/clipboard": "^5.44.0",
     "@awesome-cordova-plugins/core": "^5.46.0",
-    "@capacitor/android": "4.6.1",
+    "@capacitor/android": "4.8.2",
     "@capacitor/app": "4.1.1",
     "@capacitor/core": "4.6.1",
     "@capacitor/haptics": "4.1.0",
